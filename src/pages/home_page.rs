@@ -55,6 +55,7 @@ impl Component for HomePage {
                                 target="_blank" 
                             >
                             </a>
+                            <img src="./assets/cyber-security.png" />
                             </div>
                         </div>
                     </div>
