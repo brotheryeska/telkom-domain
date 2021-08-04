@@ -2,8 +2,6 @@ use yew::prelude::*;
 use yewdux::prelude::WithDispatch;
 use crate::components::landing_page_navtop::LandingPageNavTop;
 
-
-
 pub struct HomePage {}
 
 pub enum Msg {}
